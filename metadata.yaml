@@ -1,0 +1,46 @@
+_repo: Gesammelte-Abhandlungen-IIIVortr-ge-Reden-und-Schriften-sozialpolitischen-und-verwandten-Inha__19755
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbe, Ernst
+    birthdate: 1840
+    deathdate: 1905
+    gutenberg_agent_id: '8866'
+    url: http://www.gutenberg.org/2009/agents/8866
+    wikipedia: http://de.wikipedia.org/wiki/Ernst_Abbe
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- German Language Books
+gutenberg_issued: '2006-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19755'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HN'
+- !lcsh 'Germany -- Social policy -- History'
+- !lcc 'DD'
+tableOfContents: Welche sozialen Forderungen soll die Freisinnige Volkspartei in ihr
+  Programm aufnehmen? (1894) -- Gedächtnisrede zur Feier des 50jährigen Bestehens
+  der Optischen Werkstätte (1896) -- Über Gewinnbeteiligung der Arbeiter in der Großindustrie
+  (1897) -- Über die Grundlagen der Lohnregelung in der Optischen Werkstätte (1897)
+  -- Zur Frage der Sonderbesteuerung des Konsumvereins (1898) -- Die rechtswidrige
+  Beschränkung der Versammlungsfreiheit im Großherzogtum Sachsen (1900) -- Die volkswirtschaftliche
+  Bedeutung der Verkürzung des industriellen Arbeitstages (1901) -- Über die Aufgaben
+  des Arbeiterausschusses (1902) -- Statut der Carl Zeiss-Stiftung zu Jena (Text der
+  Neuredaktion von 1906 mit den Varianten der Ausgabe von 1896) nebst Ergänzungsstatut
+  (1900) -- Motive und Erläuterungen zum Entwurf eines Statuts der Carl Zeiss-Stiftung
+  (1895) -- Motive und Erläuterungen. Nachtrag zum zweiten Entwurf, Titel V (1896)
+  -- Die Verfassung der Carl Zeiss-Stiftung. Erläuterungen zu Titel I und II des Stiftungsstatuts
+  (1900)
+title: 'Gesammelte Abhandlungen III
+
+  Vorträge, Reden und Schriften sozialpolitischen und verwandten Inhalts'
+url: http://www.gutenberg.org/ebooks/19755
