@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8866
     wikipedia: http://de.wikipedia.org/wiki/Ernst_Abbe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19755#Gesammelte-Abhandlungen-IIIVortr-ge-Reden-und-Schriften-sozialpolitischen-und-verwandten-Inha_
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
